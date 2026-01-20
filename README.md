@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 layout:
   width: default
   title:
@@ -18,7 +19,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# 👋 Welcome to Adsterix
+# Welcome to Adsterix
 
 **Adsterix** is a **market for social attention**, built on **Farcaster and Base**.
 

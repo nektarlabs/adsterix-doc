@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Adsterix](README.md)
+* [Welcome to Adsterix](README.md)
 
 ## Getting Started
 
