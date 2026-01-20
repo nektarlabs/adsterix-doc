@@ -68,6 +68,8 @@ function App() {
 }
 ```
 
+You can find customization options and examples in the widget repo: [https://github.com/nektarlabs/adsterix-widget](https://github.com/nektarlabs/adsterix-widget)
+
 That’s it — if you can render a cast, you can render an ad.
 
 ***
