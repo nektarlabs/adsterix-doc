@@ -23,7 +23,9 @@ metaLinks:
 
 <h2 align="center">Adsterix</h2>
 
-<p align="center">A market for social attention</p>
+<p align="center"><em>A market for social attention</em></p>
+
+<p align="center"></p>
 
 <p align="center"></p>
 
