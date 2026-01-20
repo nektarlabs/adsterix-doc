@@ -1,61 +1,60 @@
 ---
-description: Welcome to your team’s developer platform
 layout:
-  width: wide
+  width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Developer Platform
+# 👋 Welcome to Adsterix
 
-<h2 align="center">Adsterix</h2>
+**Adsterix** is a **market for social attention**, built on **Farcaster and Base**.
 
-<p align="center">A market for social attention</p>
+It enables **Farcaster-native, onchain ads** that turn social posts into monetizable ad units—without breaking context, trust, or user experience.
 
-{% columns %}
-{% column %}
-#### Embed **Farcaster-native, onchain** ads anywhere in seconds
+***
 
-Monetize **any miniapp, wallet, or interface** with **native, onchain Farcaster ads**—live in under **5 seconds**. To render an ad, all you need is the **cast hash** of a Farcaster cast.
+### 🧠 What is Adsterix?
 
-**How it works**
+Adsterix lets advertisers and developers trade attention directly:
 
-1. **Create an ad** using the **Adsterix** miniapp:\
-   [https://farcaster.xyz/miniapps/nOlHtdHWXJ6H/adsterix](https://farcaster.xyz/miniapps/nOlHtdHWXJ6H/adsterix)
-2. **Open the ad’s cast** on **Farcaster**.
-3. Click the **three dots (⋮)** in the top-right corner.
-4. Select **“Copy cast hash.”**
+* 🗨️ **Ads are Farcaster casts** — native social content, not banners
+* ⛓️ **Onchain by design** — transparent, verifiable, and composable
+* 🧩 **Embed anywhere** — miniapps, wallets, dashboards, or any interface
+* 🔓 **Permissionless** — no approval, no platform lock-in
 
-That’s it—embed the cast hash anywhere to display a **Farcaster-native, onchain ad** and start monetizing instantly.
+If you can render a cast, you can render an ad. 🚀
 
+***
 
+### 🤔 Why Adsterix?
 
-<a href="https://app.gitbook.com/o/ezBFtKnWRx7ww8t6YBho/s/FkyK3sCcyFjm2ras2DOD/" class="button primary" data-icon="rocket-launch">Get started</a>&#x20;
-{% endcolumn %}
+Traditional ads interrupt.\
+**Adsterix integrates.**
 
-{% column %}
-{% code title="index.js" overflow="wrap" %}
-```javascript
-import { AdsterixWidget } from "@nektarlabs/adsterix-widget"
+By using Farcaster-native casts as ads, Adsterix introduces a new primitive:
 
-function App() {
-  return <AdsterixWidget castHash="0xbf59074b94c5fd1c6b3ee1a7201708da3f60998f" />
-}
+> 💡 **Social attention as an onchain asset**
 
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
+Developers monetize surfaces they already have.\
+Advertisers reach users where attention already lives. 🎯
+
+***
+
+### 👥 Who is it for?
+
+* 👨‍💻 **Developers** monetizing miniapps, wallets, and tools
+* 📣 **Advertisers** buying real social attention
+* ✍️ **Creators** turning influence into onchain revenue
